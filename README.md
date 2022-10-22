@@ -14,4 +14,5 @@
 * [普林斯顿微积分读本](https://book.douban.com/subject/26899701/)
 * [程序员数学：用Python学透线性代数和微积分](https://book.douban.com/subject/35689348/)
 * [汇编语言（第3版）](https://book.douban.com/subject/25726019/)
-* [加密与解密（第4版）](https://book.douban.com/subject/30288807)
+* [加密与解密（第4版）](https://book.douban.com/subject/30288807/)
+* [逆向工程核心原理](https://book.douban.com/subject/25866389/)
